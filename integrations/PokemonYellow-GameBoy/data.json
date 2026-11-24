@@ -1,0 +1,18 @@
+{
+  "info": {
+    "badges":        { "address": 54101, "type": "|u1" },
+    "current_map":   { "address": 54109, "type": "|u1" },
+    "player_y":      { "address": 54112, "type": "|u1" },
+    "player_x":      { "address": 54113, "type": "|u1" },
+    "party_count":   { "address": 53602, "type": "|u1" },
+    "party1_species":{ "address": 53603, "type": "|u1" },
+    "party1_current_hp": { "address": 53611, "type": ">u2" },
+    "party1_level":  { "address": 53643, "type": "|u1" },
+    "party1_max_hp": { "address": 53644, "type": ">u2" },
+    "money_byte1":   { "address": 54086, "type": "|u1" },
+    "money_byte2":   { "address": 54087, "type": "|u1" },
+    "money_byte3":   { "address": 54088, "type": "|u1" },
+    "is_in_battle":  { "address": 53334, "type": "|u1" },
+    "pokedex_owned_1_8": { "address": 54006, "type": "|u1" }
+  }
+}

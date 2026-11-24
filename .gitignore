@@ -1,0 +1,10 @@
+stable-retro/
+*.gbc
+*.gb
+*.state
+.idea/
+.DS_Store
+runs/
+*.zip
+.venv/
+__pycache__/
