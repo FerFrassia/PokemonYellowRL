@@ -153,7 +153,7 @@ class PokemonYellowEnv(gym.Wrapper):
 		reward = 0
 		if self._is_new_map(info):
 			self.new_maps += 1
-			reward += 50
+			reward += 10
 
 		if self._visit(info):
 			reward += 1.0

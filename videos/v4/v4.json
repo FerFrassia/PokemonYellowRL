@@ -1,0 +1,242 @@
+[
+  {
+    "env": 0,
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "reward": 196.0,
+    "new_maps": 1,
+    "exp_gained": 3,
+    "amount_of_visited_tiles": 77
+  },
+  {
+    "env": 1,
+    "player_x": 16,
+    "player_y": 20,
+    "current_map": 12,
+    "reward": 240.0,
+    "new_maps": 1,
+    "exp_gained": 5,
+    "amount_of_visited_tiles": 59
+  },
+  {
+    "env": 2,
+    "player_x": 16,
+    "player_y": 28,
+    "current_map": 12,
+    "reward": 279.0,
+    "new_maps": 1,
+    "exp_gained": 7,
+    "amount_of_visited_tiles": 51
+  },
+  {
+    "env": 3,
+    "player_x": 15,
+    "player_y": 28,
+    "current_map": 12,
+    "reward": 220.0,
+    "new_maps": 1,
+    "exp_gained": 6,
+    "amount_of_visited_tiles": 47
+  },
+  {
+    "env": 4,
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 12,
+    "reward": 208.0,
+    "new_maps": 1,
+    "exp_gained": 2,
+    "amount_of_visited_tiles": 105
+  },
+  {
+    "env": 5,
+    "player_x": 15,
+    "player_y": 29,
+    "current_map": 12,
+    "reward": 287.0,
+    "new_maps": 1,
+    "exp_gained": 8,
+    "amount_of_visited_tiles": 61
+  },
+  {
+    "env": 6,
+    "player_x": 18,
+    "player_y": 28,
+    "current_map": 1,
+    "reward": 256.0,
+    "new_maps": 2,
+    "exp_gained": 2,
+    "amount_of_visited_tiles": 110
+  },
+  {
+    "env": 7,
+    "player_x": 15,
+    "player_y": 7,
+    "current_map": 12,
+    "reward": 264.0,
+    "new_maps": 1,
+    "exp_gained": 3,
+    "amount_of_visited_tiles": 114
+  },
+  {
+    "env": 8,
+    "player_x": 4,
+    "player_y": 3,
+    "current_map": 37,
+    "reward": 189.0,
+    "new_maps": 2,
+    "exp_gained": 0,
+    "amount_of_visited_tiles": 90
+  },
+  {
+    "env": 9,
+    "player_x": 15,
+    "player_y": 2,
+    "current_map": 12,
+    "reward": 311.0,
+    "new_maps": 1,
+    "exp_gained": 6,
+    "amount_of_visited_tiles": 99
+  },
+  {
+    "env": 10,
+    "player_x": 7,
+    "player_y": 2,
+    "current_map": 37,
+    "reward": 324.0,
+    "new_maps": 3,
+    "exp_gained": 2,
+    "amount_of_visited_tiles": 89
+  },
+  {
+    "env": 11,
+    "player_x": 16,
+    "player_y": 13,
+    "current_map": 12,
+    "reward": 307.0,
+    "new_maps": 1,
+    "exp_gained": 7,
+    "amount_of_visited_tiles": 80
+  },
+  {
+    "env": 12,
+    "player_x": 13,
+    "player_y": 14,
+    "current_map": 12,
+    "reward": 246.0,
+    "new_maps": 1,
+    "exp_gained": 4,
+    "amount_of_visited_tiles": 88
+  },
+  {
+    "env": 13,
+    "player_x": 8,
+    "player_y": 28,
+    "current_map": 12,
+    "reward": 231.0,
+    "new_maps": 1,
+    "exp_gained": 6,
+    "amount_of_visited_tiles": 50
+  },
+  {
+    "env": 14,
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 12,
+    "reward": 266.0,
+    "new_maps": 1,
+    "exp_gained": 4,
+    "amount_of_visited_tiles": 85
+  },
+  {
+    "env": 15,
+    "player_x": 25,
+    "player_y": 28,
+    "current_map": 1,
+    "reward": 318.0,
+    "new_maps": 2,
+    "exp_gained": 4,
+    "amount_of_visited_tiles": 110
+  },
+  {
+    "env": 16,
+    "player_x": 16,
+    "player_y": 20,
+    "current_map": 12,
+    "reward": 229.0,
+    "new_maps": 2,
+    "exp_gained": 2,
+    "amount_of_visited_tiles": 83
+  },
+  {
+    "env": 17,
+    "player_x": 13,
+    "player_y": 29,
+    "current_map": 12,
+    "reward": 241.0,
+    "new_maps": 1,
+    "exp_gained": 7,
+    "amount_of_visited_tiles": 43
+  },
+  {
+    "env": 18,
+    "player_x": 15,
+    "player_y": 4,
+    "current_map": 12,
+    "reward": 237.0,
+    "new_maps": 1,
+    "exp_gained": 3,
+    "amount_of_visited_tiles": 126
+  },
+  {
+    "env": 19,
+    "player_x": 14,
+    "player_y": 21,
+    "current_map": 12,
+    "reward": 210.0,
+    "new_maps": 1,
+    "exp_gained": 4,
+    "amount_of_visited_tiles": 76
+  },
+  {
+    "env": 20,
+    "player_x": 17,
+    "player_y": 28,
+    "current_map": 12,
+    "reward": 312.0,
+    "new_maps": 1,
+    "exp_gained": 8,
+    "amount_of_visited_tiles": 46
+  },
+  {
+    "env": 21,
+    "player_x": 13,
+    "player_y": 20,
+    "current_map": 12,
+    "reward": 205.0,
+    "new_maps": 1,
+    "exp_gained": 3,
+    "amount_of_visited_tiles": 71
+  },
+  {
+    "env": 22,
+    "player_x": 15,
+    "player_y": 30,
+    "current_map": 12,
+    "reward": 317.0,
+    "new_maps": 1,
+    "exp_gained": 7,
+    "amount_of_visited_tiles": 43
+  },
+  {
+    "env": 23,
+    "player_x": 9,
+    "player_y": 28,
+    "current_map": 12,
+    "reward": 188.0,
+    "new_maps": 1,
+    "exp_gained": 2,
+    "amount_of_visited_tiles": 92
+  }
+]

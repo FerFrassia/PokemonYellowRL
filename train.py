@@ -6,10 +6,10 @@ from stable_baselines3 import PPO
 from stable_baselines3.common.callbacks import CheckpointCallback, EvalCallback
 from wrapper import make_env
 
-VERSIONNAME = 'explore_v4'
+VERSIONNAME = 'explore_v6'
 SEED = 55
 
-def make_vec(n_envs=4, n_stack=4):
+def make_vec(n_envs=8, n_stack=4):
 	venv = make_vec_env(make_env, n_envs=n_envs, vec_env_cls=SubprocVecEnv, vec_env_kwargs=dict(start_method='spawn'))
 	return VecFrameStack(venv, n_stack=n_stack)
 
@@ -33,7 +33,7 @@ def benchmark(venv, n_iters=200):
 	steps_per_sec = n_iters * venv.num_envs / elapsed
 	return steps_per_sec, total_rewards
 
-def train(venv, eval_venv, total_timesteps=200_000):
+def train(venv, eval_venv, total_timesteps=600_000):
 	model = PPO('CnnPolicy',
 	            venv,
 	            n_steps=128,
@@ -42,7 +42,7 @@ def train(venv, eval_venv, total_timesteps=200_000):
 	            gamma=0.99,
 	            ent_coef=0.02,
 	            learning_rate=3e-4,
-	            device='cpu',
+	            device='cuda',
 	            verbose=1,
 	            tensorboard_log='runs',
 	            seed=SEED)
