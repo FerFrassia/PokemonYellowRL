@@ -1,0 +1,8002 @@
+[
+  {
+    "player_x": 11,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 12,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 16,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 12,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 11,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 10,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 9,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 8,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 7,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 5,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 4,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 3,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 4,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 3,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 3,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 4,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 15,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 0,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 0,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 34,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 31,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 10,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 9,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 27,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 26,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 26,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 26,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 7,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 8,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 9,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 9,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 9,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 10,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 10,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 10,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 10,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 26,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 26,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 6,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 11,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 12,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 0
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 25,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 24,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 6,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 22,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 20,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 21,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 22,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 23,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 5,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 5,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 5,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 4,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 3,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 3,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 3,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 3,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 4,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 5,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 6,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 6,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 6,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 7,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 8,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 9,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 10,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 10,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 10,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 6,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 5,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 4,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 3,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 17,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 16,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 15,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 14,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 13,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 12,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 2,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 1,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 0,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 1
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 0,
+    "current_map": 0,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 0,
+    "current_map": 0,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 0,
+    "current_map": 0,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 35,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 34,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 2
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 33,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 32,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 31,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 30,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 11,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 10,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 28,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 2,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 5,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 3,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 1,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 0,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  },
+  {
+    "player_x": 9,
+    "player_y": 29,
+    "current_map": 12,
+    "action": 4,
+    "new_maps": 1,
+    "exp_gained": 3
+  }
+]

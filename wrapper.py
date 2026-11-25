@@ -2,7 +2,6 @@ from pathlib import Path
 import numpy as np
 import stable_retro as retro
 import gymnasium as gym
-from stable_baselines3.common.env_checker import check_env
 import cv2
 
 retro.data.add_custom_integration(str(Path(__file__).parent / "integrations"))
@@ -77,7 +76,7 @@ def experimentWithMovements():
 
 class PokemonYellowEnv(gym.Wrapper):
 	ACTIONS = ['UP', 'DOWN', 'LEFT', 'RIGHT', 'A', 'B', 'START']
-	MAX_STEPS = 50
+	MAX_STEPS = 1000
 
 	def __init__(self, env, hold=2, release=16):
 		super().__init__(env)
@@ -87,6 +86,9 @@ class PokemonYellowEnv(gym.Wrapper):
 		self.buttons = env.unwrapped.buttons
 		self.visited_tiles = {}
 		self.step_counter = 0
+		self.party_experience = None
+		self.new_maps = 0
+		self.exp_gained = 0
 		self.action_space = gym.spaces.Discrete(len(self.ACTIONS))
 
 	def _press(self, name):
@@ -102,6 +104,29 @@ class PokemonYellowEnv(gym.Wrapper):
 		tiles.add(pos)
 		return is_new
 
+	def _is_new_map(self, info):
+		"""Returns true if the agent discovers a new map """
+		return info['current_map'] not in self.visited_tiles
+
+	def _increased_experience(self, info):
+		"""Returns the increased experience as reward if the agent wins a pokemon fight """
+		currentPartyExperience = self._calculate_experience_from_info(info)
+		if self.party_experience is None:
+			self.party_experience = currentPartyExperience
+		delta = currentPartyExperience - self.party_experience
+		self.party_experience = currentPartyExperience
+		if delta > 0:
+			self.exp_gained += 1
+			return delta
+		else:
+			return 0
+
+	def _calculate_experience_from_info(self, info):
+		b1 = int(info['party1_exp_byte1'])
+		b2 = int(info['party1_exp_byte2'])
+		b3 = int( info['party1_exp_byte3'])
+		return (b1 << 16) | (b2 << 8) | b3
+
 	def _do_action(self, name):
 		for _ in range(self.hold):
 			self.env.step(self._press(name))
@@ -113,20 +138,32 @@ class PokemonYellowEnv(gym.Wrapper):
 		self.env.reset(**kwargs)
 		self.visited_tiles = {}
 		self.step_counter = 0
+		self.new_maps = 0
+		self.exp_gained = 0
 		obs, _, _, _, info = self.env.step(np.zeros(9, dtype=np.int8))  # no-op to fill info
 		self._visit(info) #the start tile isn't a discovery
+		self.party_experience = self._calculate_experience_from_info(info)
 		info['amount_of_visited_tiles'] = 1
+		info['new_maps'] = 0
+		info['exp_gained'] = 0
 		return obs, info
 
 	def step(self, action):
 		obs, info, terminated = self._do_action(self.ACTIONS[action])
+		reward = 0
+		if self._is_new_map(info):
+			self.new_maps += 1
+			reward += 50
+
 		if self._visit(info):
-			reward = 1.0
-		else:
-			reward = 0.0
+			reward += 1.0
+
+		reward += self._increased_experience(info)
 
 		self.step_counter += 1
 		info['amount_of_visited_tiles'] = sum(len(s) for s in self.visited_tiles.values())
+		info['new_maps'] = self.new_maps
+		info['exp_gained'] = self.exp_gained
 
 		truncated = self.step_counter >= self.MAX_STEPS
 
@@ -145,6 +182,7 @@ class ScreenPreprocess(gym.ObservationWrapper):
 		return gray_resized[..., None]
 
 if __name__ == '__main__':
+	from stable_baselines3.common.env_checker import check_env
 	check_env(make_env())
 
 	env = make_env()
