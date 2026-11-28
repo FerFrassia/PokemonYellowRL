@@ -3,7 +3,7 @@ import numpy as np
 from stable_baselines3.common.env_util import make_vec_env
 from stable_baselines3.common.vec_env import SubprocVecEnv, VecFrameStack
 from stable_baselines3 import PPO
-from stable_baselines3.common.callbacks import CheckpointCallback, EvalCallback
+from stable_baselines3.common.callbacks import CheckpointCallback, EvalCallback, BaseCallback
 from wrapper import make_env
 
 VERSIONNAME = 'explore_v6'
@@ -57,10 +57,30 @@ def train(venv, eval_venv, total_timesteps=600_000):
 	                             eval_freq=25_000 // venv.num_envs,
 	                             n_eval_episodes=3,
 	                             deterministic=False)
+ 
+	record_callback = RecordCallback()
 
-	model.learn(total_timesteps=total_timesteps, log_interval=10, tb_log_name=VERSIONNAME, callback=[checkpoint_callback, eval_callback])
+	model.learn(total_timesteps=total_timesteps, log_interval=10, tb_log_name=VERSIONNAME, callback=[checkpoint_callback, eval_callback, record_callback])
 	model.save('models/ppo_test')
 	return model
+
+class RecordCallback(BaseCallback):
+    def __init__(self, verbose: int = 0):
+        super().__init__(verbose)
+        
+    def _on_step():
+        
+        
+        infos = self.locals['infos']
+        actions = self.locals['actions']
+        dones = self.locals['dones']
+        
+        self.logger.()
+        print(infos)
+        print(actions)
+        print(dines)
+        
+        return True
 
 if __name__ == '__main__':
 	venv = make_vec()

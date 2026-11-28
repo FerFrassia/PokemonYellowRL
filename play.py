@@ -1,35 +1,20 @@
-from pathlib import Path
-import gzip
 import numpy as np
 import pyglet
 from pyglet.window import key
-import stable_retro as retro
+
 import argparse
+from envs import ROOT, save_state, make_play_env
 
 MAP = {"UP": key.UP, "DOWN": key.DOWN, "LEFT": key.LEFT, "RIGHT": key.RIGHT,
        "A": key.X, "B": key.Z, "START": key.ENTER, "SELECT": key.BACKSPACE}
 SCALE = 4
-ROOT = Path(__file__).parent
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--state')
     parser.add_argument('--save-as')
     return parser.parse_args()
-
-def make_play_env(state_name):
-    retro.data.add_custom_integration(str(ROOT / "integrations"))
-    return retro.make("PokemonYellow-GameBoy", state=state_name or retro.State.NONE,
-                 inttype=retro.data.Integrations.CUSTOM_ONLY, render_mode="rgb_array")
-
-def save_state(env, name):
-    if name is not None:
-        path = ROOT / "integrations" / "PokemonYellow-GameBoy" / (name + ".state")
-        with gzip.open(path, "wb") as f:
-            f.write(env.unwrapped.em.get_state())
-        print("saved", path)
-    else:
-        print("warning: didn't save because there's no save-as state")
 
 def play(args):
     env = make_play_env(args.state)
