@@ -6,12 +6,11 @@ import cv2
 
 retro.data.add_custom_integration(str(Path(__file__).parent / "integrations"))
 
-
-def make_env():
+def make_env(max_steps=1000):
 	env = retro.make("PokemonYellow-GameBoy",
 	                 inttype=retro.data.Integrations.CUSTOM_ONLY,
 	                 render_mode="rgb_array")
-	return ScreenPreprocess(PokemonYellowEnv(env))
+	return ScreenPreprocess(PokemonYellowEnv(env, max_steps=max_steps))
 
 class Movement:
 	frame = 0
@@ -76,11 +75,11 @@ def experimentWithMovements():
 
 class PokemonYellowEnv(gym.Wrapper):
 	ACTIONS = ['UP', 'DOWN', 'LEFT', 'RIGHT', 'A', 'B', 'START']
-	MAX_STEPS = 1000
 
-	def __init__(self, env, hold=2, release=16):
+	def __init__(self, env, max_steps=1000, hold=2, release=16):
 		super().__init__(env)
 
+		self.max_steps = max_steps
 		self.hold = hold
 		self.release = release
 		self.buttons = env.unwrapped.buttons
@@ -165,7 +164,7 @@ class PokemonYellowEnv(gym.Wrapper):
 		info['new_maps'] = self.new_maps
 		info['exp_gained'] = self.exp_gained
 
-		truncated = self.step_counter >= self.MAX_STEPS
+		truncated = self.max_steps is not None and self.step_counter >= self.max_steps
 
 		return obs, reward, terminated, truncated, info
 
